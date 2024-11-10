@@ -1,0 +1,1 @@
+ C:\\Users\\Muhammad\ Bilal\\Desktop\\firebase_social_media_flutter\\.dart_tool\\flutter_build\\a75f170ad2aa6d6c97f444545cf5dc6e\\native_assets.yaml: 

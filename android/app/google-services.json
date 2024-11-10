@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575777312639",
+    "project_id": "social-media-66a25",
+    "storage_bucket": "social-media-66a25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575777312639:android:2114a4ee51f05208f2544a",
+        "android_client_info": {
+          "package_name": "com.mbilal.socialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7M31RNrxEDSm9RbymJ9FMtAivrykUsQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
