@@ -107,7 +107,8 @@ class MyApp extends StatelessWidget {
         ),
       ),
       // home: const SplashScreen(),
-      initialRoute: RouteName.splashScreen,
+      // initialRoute: RouteName.splashScreen,
+      initialRoute: RouteName.loginView,
       onGenerateRoute: Routes.generateRoute,
     );
   }
