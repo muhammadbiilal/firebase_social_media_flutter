@@ -104,6 +104,12 @@ class MyApp extends StatelessWidget {
             color: AppColors.primaryTextTextColor,
             height: 2.26,
           ),
+          titleMedium: TextStyle(
+            fontSize: 16,
+            fontFamily: AppFonts.sfProDisplayRegular,
+            color: AppColors.primaryTextTextColor,
+            height: 1.5,
+          ),
         ),
       ),
       // home: const SplashScreen(),
@@ -124,3 +130,4 @@ class MyApp extends StatelessWidget {
 // bodyText1 → bodyLarge
 // bodyText2 → bodyMedium
 // caption → bodySmall
+// subtitle1 → titleMedium
